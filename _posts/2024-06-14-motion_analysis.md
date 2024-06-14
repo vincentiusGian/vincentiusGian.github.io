@@ -30,3 +30,5 @@ In areas with a significant amount of illegal trade and production of drugs, THB
 * Accountability of government in the drugs distribution
 * Changes in the society after legalisation of drugs
 (elaborate how the citizen would be)
+* Legalize and aggressively produce and sell is not the same as encourage drugs to the citizen. It's easy to anylise that there's no encouragement of drugs and it's free for anyone to choose.
+* Economic growth of the state by the equality of supply and demand.
