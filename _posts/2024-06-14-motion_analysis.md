@@ -1,7 +1,7 @@
 ---
 layout: post
-title: VECTOR
-date: 01-06-2024
+title: Motion Analysis - 1
+date: 14-06-2024
 categories: [Debate, Motion Analysis]
 tags: [debate]     # TAG names should always be lowercase
 
