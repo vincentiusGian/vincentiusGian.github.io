@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Motion Analysis - 1
-date: 14-06-2024
+title: Mashmokh and Numbers
+date: 18-06-2024
 categories: [Competitive Programming, Math]
 tags: [Math]     # TAG names should always be lowercase
 
