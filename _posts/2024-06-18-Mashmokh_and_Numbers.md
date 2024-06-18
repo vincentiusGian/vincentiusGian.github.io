@@ -2,8 +2,8 @@
 layout: post
 title: Motion Analysis - 1
 date: 14-06-2024
-categories: [Debate, Motion Analysis]
-tags: [debate]     # TAG names should always be lowercase
+categories: [Competitive Programming, Math]
+tags: [Math]     # TAG names should always be lowercase
 
 math: true
 
